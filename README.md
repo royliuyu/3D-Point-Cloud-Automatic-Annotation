@@ -25,6 +25,6 @@
 - visit http://0.0.0.0:8081 in browser
 
 ## Acknowledgement
-The part of the manual annotation adjustment work is based on [SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS).
+Part of the manual annotation adjustment work is based on [SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS).
 
 
